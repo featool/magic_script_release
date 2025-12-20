@@ -1,19 +1,13 @@
 {
-  "version": "",
-  "notes": "",
-  "pub_date": "",
+  "version": "0.0.1",
+  "notes": "内测版本",
+  "pub_date": "2025-12-20",
   "platforms": {
-    "linux-x86_64": {
-      "signature": "",
-      "url": ""
-    },
     "windows-x86_64": {
-      "signature": "",
-      "url": ""
-    },
-    "darwin-x86_64": {
-      "signature": "",
-      "url": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEUzdnNVcVJqUHRuNG9yeTdFQ3QrVnMzK01pdk5Ib2pTVUR6Qzl6eVp1TVVUVXp0ZWxINm1wZkJycGcyeG93eStRTkNiMDRkUDBEc3JOVFJ5YWJycC9TS3NLckYyWFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MTU2NjQ1CWZpbGU6TWFnaWNTY3JpcHRfMC4wLjFfeDY0LXNldHVwLmV4ZQpxR29FUXl0R0ZEUFpsKytPYTk2ZzNYN1I5NzlBbzJhRUNVcXY1aGZTM0pVSTdMQlhKUURsR2JyTWtOYThZdzFwWElKQUsyOU5zRElvT0xTMXRxQ2tCQT09Cg==",
+      "url": "https://github.com/featool/magic_script_release/releases/download/v0.0.1/MagicScript_0.0.1_x64-setup.exe"
     }
   }
 }
+
+
