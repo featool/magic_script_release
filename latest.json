@@ -1,11 +1,11 @@
 {
-  "version": "0.0.1",
-  "notes": "内测版本",
+  "version": "0.1.1",
+  "notes": "",
   "pub_date": "2025-12-20T06:30:45Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEUzdnNVcVJqUHRuNG9yeTdFQ3QrVnMzK01pdk5Ib2pTVUR6Qzl6eVp1TVVUVXp0ZWxINm1wZkJycGcyeG93eStRTkNiMDRkUDBEc3JOVFJ5YWJycC9TS3NLckYyWFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MTU2NjQ1CWZpbGU6TWFnaWNTY3JpcHRfMC4wLjFfeDY0LXNldHVwLmV4ZQpxR29FUXl0R0ZEUFpsKytPYTk2ZzNYN1I5NzlBbzJhRUNVcXY1aGZTM0pVSTdMQlhKUURsR2JyTWtOYThZdzFwWElKQUsyOU5zRElvT0xTMXRxQ2tCQT09Cg==",
-      "url": "https://github.com/featool/magic_script_release/releases/download/v0.0.1/MagicScript_0.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEUzdnNVcVJqUGlESEsvazM0SG0xMWt6RUM2akt1NHBqcUVLZjZQaFdaK1pCYlVROVZ2aFdmc0Zpekh0TFVRSEE5dEFHVzFLVDB4ZnppeE5UNUM4ZldPZi9HQ3cwcWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NzA2NDAxCWZpbGU6TWFnaWNTY3JpcHRfMC4xLjFfeDY0LXNldHVwLmV4ZQpKTWtwajRDRjEzN3UwRmlrbC9yVEh5elR0OHNpL0cyYSs3L2dWYzRZYm9NWWVZWDAvMkcwWFF0c2N0V2Vac0RrMTA1OFRaYk1ONkh0ckxoQ3BBWGNDUT09Cg==",
+      "url": "https://github.com/featool/magic_script_release/releases/download/v0.1.1/MagicScript_0.1.1_x64-setup.exe"
     }
   }
 }
